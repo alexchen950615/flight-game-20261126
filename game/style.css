@@ -1,0 +1,33 @@
+/* Skyline Courier — page chrome around the canvas. The game itself is drawn
+   on the canvas; this file only centres it and keeps the page dark. */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #070a10;
+  color: #c8d4e2;
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+}
+
+#stage {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#game {
+  display: block;
+  /* Letterboxed 16:9: the canvas always fills the window exactly, so the
+     instrument panel is never cut off below the fold. */
+  width: min(100vw, 177.78vh);
+  height: min(100vh, 56.25vw);
+  background: #0a0d12;
+  cursor: crosshair;
+}
+
+#help {
+  display: none;
+}
