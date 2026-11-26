@@ -1,6 +1,8 @@
 # Skyline Courier
 
-[![Play Skyline Courier — make.fun best flight game](https://img.shields.io/badge/make.fun-best--flight--game-19d3ff?style=for-the-badge)](https://make.fun/c/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/alexchen950615/flight-game-20261126/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/alexchen950615/flight-game-20261126/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 A 2D flight game that runs entirely offline in a desktop browser. Fly a
 little courier aeroplane down Alder Valley in chase view: thread glowing
